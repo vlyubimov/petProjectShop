@@ -1,0 +1,40 @@
+.products {
+    margin-top: 20px;
+}
+
+.products .row {
+    width: 100%;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.products img {
+    width: 80px;
+    border-radius: 9px;
+    margin-right: 10px;
+}
+
+.products .btn {
+    margin-left: 0;
+    background: #ff5644;
+    width: 300px;
+    height: 50px;
+}
+
+img.trash_bin {
+    width: 20px;
+    height: 15px;
+}
+
+.main button {
+    margin-left: 0;
+    margin-top: 15px;
+}
+
+.btn-del {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,26 @@
+.info {
+    margin-top: 10px;
+    margin-bottom: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.info img {
+    max-width: 300px;
+}
+
+.info p {
+    width: 500px;
+}
+
+.info .btn {
+    width: 200px;
+    background: #ff5644;
+}
+
+a .btn {
+    margin-left: 0;
+    margin-bottom: 10px;
+}
